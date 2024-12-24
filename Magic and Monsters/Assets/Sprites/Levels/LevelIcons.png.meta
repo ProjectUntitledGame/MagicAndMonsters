@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 3deccd083ba5a5948a13460b5a3bbaaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8142877149246306456
+    second: Leveel_0
+  - first:
+      213: 1723978556127563044
+    second: Leveel_1
+  - first:
+      213: -4173766641642581409
+    second: Leveel_2
+  - first:
+      213: 53098219538134602
+    second: Leveel_3
+  - first:
+      213: 1994946370308170894
+    second: Leveel_4
+  - first:
+      213: 1192473301307772510
+    second: Leveel_5
+  - first:
+      213: -3902090993978091029
+    second: Leveel_6
+  - first:
+      213: 6179632526945056089
+    second: 1
+  - first:
+      213: 176428841034515392
+    second: Leveel_8
+  - first:
+      213: 2307328359697663265
+    second: Leveel_9
+  - first:
+      213: 9111441095797496907
+    second: Leveel_10
+  - first:
+      213: -3291475653949949209
+    second: Leveel_11
+  - first:
+      213: -39250138199242729
+    second: Leveel_12
+  - first:
+      213: -3412982315038087254
+    second: Leveel_13
+  - first:
+      213: 2384129914032321055
+    second: Leveel_14
+  - first:
+      213: 1445016469065132619
+    second: Leveel_15
+  - first:
+      213: -1460486457284712453
+    second: Leveel_16
+  - first:
+      213: -528067631818020639
+    second: Leveel_17
+  - first:
+      213: 4501528230992029096
+    second: Leveel_18
+  - first:
+      213: 8739145277669325309
+    second: Leveel_19
+  - first:
+      213: -7818518761146408007
+    second: Leveel_20
+  - first:
+      213: -2200144525656834213
+    second: Leveel_21
+  - first:
+      213: 2560213175399272282
+    second: Leveel_22
+  - first:
+      213: -4771302696203270104
+    second: Leveel_23
+  - first:
+      213: -3885901468550611192
+    second: Leveel_24
+  - first:
+      213: 4635589286069531784
+    second: Leveel_25
+  - first:
+      213: 5007917426709232983
+    second: Tutorial
+  - first:
+      213: -3804754046442553840
+    second: Level_1
+  - first:
+      213: -2687792023407892691
+    second: Tutorial
+  - first:
+      213: -2687792023407892691
+    second: Level_2
+  - first:
+      213: 8202134887319587690
+    second: Level_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tutorial
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1550
+        width: 370
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dfd73dd52bf7540800000000000000
+      internalID: 5007917426709232983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1172
+        width: 333
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ebf0c6a5cc23bc0800000000000000
+      internalID: -3804754046442553840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 758
+        width: 370
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27e4ae256b03bad0800000000000000
+      internalID: -2687792023407892691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 346
+        width: 344
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bc5862936d3d170800000000000000
+      internalID: 8202134887319587690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tutorial: 5007917426709232983
+      Level_1: -3804754046442553840
+      Level_4: 8202134887319587690
+      Level_2: -2687792023407892691
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

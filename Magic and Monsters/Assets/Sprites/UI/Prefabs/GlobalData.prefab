@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &829898952108061074
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 829898952108061072}
+  - component: {fileID: 829898952108061075}
+  - component: {fileID: 829898952108061073}
+  - component: {fileID: 829898952108061077}
+  m_Layer: 0
+  m_Name: GlobalData
+  m_TagString: GlobalData
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &829898952108061072
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 829898952108061074}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -311.695, y: 30.48172, z: -64.7764}
+  m_LocalScale: {x: 2.5, y: 2.5, z: 2.5}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &829898952108061075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 829898952108061074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03043afadb814b1439accda5792a4882, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyInfo: {fileID: 0}
+  holdCurrentMenu: {fileID: 0}
+  enemyName: {fileID: 0}
+  enemyHealth: 0
+  enemySprites: []
+  enemyKOSprites:
+  - {fileID: -5007183710556877317, guid: 3374150e41851fe48aec9e2cff3c90d6, type: 3}
+  spriteIndex: 0
+  levelName: {fileID: 0}
+  spellSheet: {fileID: 0}
+  hubEnemies:
+  - {fileID: 0}
+  blackScreen: {fileID: 0}
+  enemyTab: {fileID: 0}
+  settings: {fileID: 0}
+  level: 0
+  levelPanel: {fileID: 0}
+  shop: {fileID: 0}
+  holdPanel: {fileID: 0}
+  sceneIndex: 0
+  roll: {fileID: 0}
+  slider: {fileID: 0}
+  enemySpells:
+  - 
+  - 
+  - 
+  - 
+  winScreen: {fileID: 0}
+  tempEnemyHealth: 0
+  tempName: 
+  spells: {fileID: 829898952108061073}
+  enemyImage: {fileID: 0}
+  playerHealth: 100
+  playerBar: {fileID: 0}
+  scrollAnim: {fileID: 0}
+  levelNum: 0
+  spellDisplay: {fileID: 0}
+  hitRequired: {fileID: 0}
+  damageDie: {fileID: 0}
+  eSpellDisplay: {fileID: 0}
+  eHitRequired: {fileID: 0}
+  eDamageDie: {fileID: 0}
+  psInfo: {fileID: 0}
+  esInfo: {fileID: 0}
+  initCont: {fileID: 0}
+  turn: 1
+  eResult: {fileID: 0}
+  displayResult: {fileID: 0}
+  playerInit: 0
+  enemyInit: 0
+  initResult: {fileID: 0}
+  dice: []
+  finalSide: 0
+  enemyTurn: 0
+  defeatScreen: {fileID: 0}
+  turnDisplay: {fileID: 0}
+  hitOrMiss: {fileID: 0}
+  alive: 1
+  eSpawn: {fileID: 0}
+  pSpawn: {fileID: 0}
+  target: {fileID: 0}
+  element: 0
+  reward: 0
+  elementImage: {fileID: 0}
+  elementImages: []
+  newSpellHolder: 
+--- !u!114 &829898952108061073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 829898952108061074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be0b373302cf28e4c9b3ee6f6ccc2ad9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spellList:
+  - 
+  - 
+  - 
+  - 
+  spellSlots:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  spellBookSlots:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  count: 0
+  tempSpell: {fileID: 0}
+  tempSlot: {fileID: 0}
+--- !u!114 &829898952108061077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 829898952108061074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0588658ce85594b95e8acb1b0ab2ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerSprite:
+  - {fileID: 1076095150090059377, guid: 3374150e41851fe48aec9e2cff3c90d6, type: 3}
+  - {fileID: -5007183710556877317, guid: 3374150e41851fe48aec9e2cff3c90d6, type: 3}
+  - {fileID: 7278580326078231855, guid: 3374150e41851fe48aec9e2cff3c90d6, type: 3}
+  - {fileID: -7876109703606496077, guid: 3374150e41851fe48aec9e2cff3c90d6, type: 3}
+  - {fileID: -8916409688652900315, guid: 3374150e41851fe48aec9e2cff3c90d6, type: 3}
+  - {fileID: -4125360082985838742, guid: 3374150e41851fe48aec9e2cff3c90d6, type: 3}
+  - {fileID: -949768193647784023, guid: 37baf4f07f200ba40b03558278baa8d7, type: 3}
+  - {fileID: -7292550232554559865, guid: 37baf4f07f200ba40b03558278baa8d7, type: 3}
+  - {fileID: 4431090057153259864, guid: 37baf4f07f200ba40b03558278baa8d7, type: 3}
+  - {fileID: -3232436425248054755, guid: 37baf4f07f200ba40b03558278baa8d7, type: 3}
+  playerKOSprite:
+  - {fileID: -8028189210448468587, guid: 213c8c73055a5734dbfd486adc478a79, type: 3}
+  - {fileID: -1105650715770322466, guid: aac0f902e2f446847ac64e107ebbb67a, type: 3}
+  - {fileID: -2923028664603998445, guid: aac0f902e2f446847ac64e107ebbb67a, type: 3}
+  - {fileID: -8554230336770070224, guid: aac0f902e2f446847ac64e107ebbb67a, type: 3}
+  - {fileID: 1667472565378155976, guid: aac0f902e2f446847ac64e107ebbb67a, type: 3}
+  - {fileID: -7530312513627831012, guid: aac0f902e2f446847ac64e107ebbb67a, type: 3}
+  - {fileID: -8834350218158644997, guid: 213c8c73055a5734dbfd486adc478a79, type: 3}
+  - {fileID: 8467138169799157521, guid: 213c8c73055a5734dbfd486adc478a79, type: 3}
+  - {fileID: -1802507705078045599, guid: aac0f902e2f446847ac64e107ebbb67a, type: 3}
+  - {fileID: -6657894705046958662, guid: aac0f902e2f446847ac64e107ebbb67a, type: 3}
+  playerDice:
+  - {fileID: 4881084910520698961, guid: b78201834bd7b6f49bc5fb5d9e00ee6a, type: 3}
+  - {fileID: 193539334251467510, guid: b78201834bd7b6f49bc5fb5d9e00ee6a, type: 3}
+  - {fileID: -2221209265960435583, guid: b78201834bd7b6f49bc5fb5d9e00ee6a, type: 3}
+  - {fileID: 8254386483102833336, guid: b78201834bd7b6f49bc5fb5d9e00ee6a, type: 3}
+  - {fileID: 6441758377307213685, guid: b78201834bd7b6f49bc5fb5d9e00ee6a, type: 3}
+  - {fileID: 3958375914664920993, guid: b78201834bd7b6f49bc5fb5d9e00ee6a, type: 3}
+  playerSpriteIndex: 2
+  playerImage: {fileID: 0}
+  playerDiceImage: {fileID: 0}
+  playerKOImage: {fileID: 0}
+  tempIdentification: 0
+  tempIndex: 0
+  diceOrSkin: 0
